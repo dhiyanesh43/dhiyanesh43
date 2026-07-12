@@ -113,7 +113,7 @@ A web application that centralizes student analytics, performance tracking, and 
 
 **Tech:** `Python` `Flask` `React` `Firebase`
 
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/ai-student-dashboard)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dhiyanesh43/ai-student-dashboard)
 [![Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://your-demo-link.com)
 
 </td>
@@ -124,7 +124,7 @@ An implementation exploring quantum cryptography principles for secure key excha
 
 **Tech:** `Python` `Cryptography` `Simulation`
 
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/quantum-key-distribution)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dhiyanesh43/quantum-key-distribution)
 [![Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://your-demo-link.com)
 
 </td>
@@ -137,7 +137,7 @@ A pathfinding engine that computes optimal routes using the A* search algorithm 
 
 **Tech:** `Python` `Algorithms` `Data Structures`
 
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/route-optimization-astar)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dhiyanesh43/route-optimization-astar)
 [![Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://your-demo-link.com)
 
 </td>
@@ -148,7 +148,7 @@ A conversational AI assistant built with LLM integration, designed for natural, 
 
 **Tech:** `Python` `OpenAI API` `Flask` `React`
 
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/ai-chatbot-webapp)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dhiyanesh43/ai-chatbot-webapp)
 [![Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://your-demo-link.com)
 
 </td>
@@ -161,7 +161,7 @@ An automated attendance system using real-time face recognition to eliminate man
 
 **Tech:** `Python` `OpenCV` `Machine Learning`
 
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/face-recognition-attendance)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dhiyanesh43/face-recognition-attendance)
 [![Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://your-demo-link.com)
 
 </td>
@@ -172,7 +172,7 @@ A personal portfolio showcasing projects, skills, and journey as an AI & full-st
 
 **Tech:** `React` `HTML` `CSS` `JavaScript`
 
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/portfolio)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dhiyanesh43/portfolio)
 [![Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 
 </td>
@@ -185,19 +185,19 @@ A personal portfolio showcasing projects, skills, and journey as an AI & full-st
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dhiyanesh43&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dhiyanesh43&theme=tokyonight&hide_border=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&height=150" width="45%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="97%"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiyanesh43&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=dhiyanesh43&theme=tokyo-night&hide_border=true&height=150" width="45%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhiyanesh43&theme=tokyo-night&hide_border=true" width="97%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=dhiyanesh43&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
@@ -260,7 +260,7 @@ Documenting growth across AI, ML & Web Development
 <div align="center">
 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/dhiyanesh43"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://YOUR_PORTFOLIO_URL.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://twitter.com/YOUR_TWITTER_USERNAME"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
@@ -286,7 +286,7 @@ Documenting growth across AI, ML & Web Development
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" width="97%"/>
+<img src="https://raw.githubusercontent.com/dhiyanesh43/dhiyanesh43/output/github-contribution-grid-snake.svg" width="97%"/>
 </div>
 
 <br/>
@@ -297,7 +297,7 @@ Documenting growth across AI, ML & Web Development
 
 If you find my work useful, consider supporting me:
 
-<a href="https://github.com/sponsors/YOUR_USERNAME"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/></a>
+<a href="https://github.com/sponsors/dhiyanesh43"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/></a>
 
 </div>
 
@@ -307,8 +307,8 @@ If you find my work useful, consider supporting me:
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" />
-<img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME" />
+<img src="https://komarev.com/ghpvc/?username=dhiyanesh43&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=dhiyanesh43.dhiyanesh43" />
 
 ### ⭐ Thanks for visiting my profile!
 
